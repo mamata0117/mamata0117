@@ -1,4 +1,3 @@
-```md
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&size=24&duration=3500&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Computer+Engineering+Student;Python+Developer;Backend+Enthusiast;C%2B%2B+Programmer"/>
 </p>
