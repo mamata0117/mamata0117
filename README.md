@@ -1,5 +1,6 @@
+```md
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Computer+Engineering+Student;Python+Developer;Backend+Enthusiast"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&size=24&duration=3500&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Computer+Engineering+Student;Python+Developer;Backend+Enthusiast;C%2B%2B+Programmer"/>
 </p>
 
 <h1 align="center">Mamata Poudel</h1>
@@ -45,7 +46,7 @@ Interested in software development, algorithms, and database systems.
 <h3 align="center">Tech Stack</h3>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,c,cpp,html,css,postgres,git,vscode&theme=dark"/>
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,html,css,postgres,git,vscode&theme=dark"/>
 </p>
 
 <br>
@@ -53,7 +54,7 @@ Interested in software development, algorithms, and database systems.
 <h3 align="center">Areas of Interest</h3>
 
 <p align="center">
-Backend Development • Problem Solving • Database Systems • Software Engineering
+Backend Development • Software Engineering • Database Systems • Problem Solving
 </p>
 
 <br>
@@ -61,8 +62,12 @@ Backend Development • Problem Solving • Database Systems • Software Engine
 <h3 align="center">GitHub Statistics</h3>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=mamata0117&show_icons=true&theme=github_dark&hide_border=true&border_radius=20"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mamata0117&layout=compact&theme=github_dark&hide_border=true&border_radius=20"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=mamata0117&show_icons=true&theme=github_dark&hide_border=true&border_radius=18"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mamata0117&layout=compact&theme=github_dark&hide_border=true&border_radius=18"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=mamata0117&theme=github-dark-blue&hide_border=true&border_radius=18"/>
 </p>
 
 <p align="center">
